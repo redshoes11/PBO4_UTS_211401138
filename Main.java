@@ -1,5 +1,3 @@
-package PBO4_UTS_211401138;
-
 class character{
     String nama;
     int heal;
